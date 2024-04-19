@@ -1,0 +1,56 @@
+.booking-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .booking-section .property-listings {
+    flex: 1;
+  }
+  
+  .booking-section .checkout-section {
+    flex: 1;
+  }
+  
+  .booking-section h2 {
+    margin-top: 0;
+  }
+  
+  .booking-section .property-listings p {
+    margin: 5px 0;
+  }
+  
+  .booking-section .property-listings button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .booking-section .property-listings button:hover {
+    background-color: #0056b3;
+  }
+  .card1  {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .checkout-section {
+    margin: 100px;
+  }
+  .back {
+    background-image: url("https://images.alphacoders.com/435/435117.jpg");
+    background-size: cover;
+    height: 100vh;
+  }
+  .card2 {
+    background-color: rgb(245, 241, 241);
+    width: 150px;
+    height: 55px;
+    border-radius: 5px;
+  }
+  .cart {
+    background-color: aliceblue;
+    border-radius: 5px;
+  }

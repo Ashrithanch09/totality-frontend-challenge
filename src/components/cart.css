@@ -1,0 +1,23 @@
+.cart {
+    border: 0px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    background-color: aliceblue;
+    background-size: auto;
+  }
+  
+  .cart p {
+    margin: 5px 0;
+  }
+  
+  .cart button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .cart button:hover {
+    background-color: #c82333;
+  }

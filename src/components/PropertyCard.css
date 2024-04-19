@@ -1,0 +1,34 @@
+.property-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    
+  }
+  
+  .property-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .property-card h2 {
+    margin: 0;
+  }
+  
+  .property-card button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .property-card button:hover {
+    background-color: #0056b3;
+  }
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
